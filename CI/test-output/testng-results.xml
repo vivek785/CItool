@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16663" started-at="2022-07-26T16:02:34Z" finished-at="2022-07-26T16:02:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16663" started-at="2022-07-26T16:02:34Z" finished-at="2022-07-26T16:02:50Z">
+      <class name="com.ci.LoginPage.testcase.Baseclass">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:com.ci.LoginPage.testcase.Baseclass@75c072cb]" name="setupBrowser" is-config="true" duration-ms="8851" started-at="2022-07-26T16:02:34Z" finished-at="2022-07-26T16:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="Logininpage()[pri:0, instance:com.ci.LoginPage.testcase.Baseclass@75c072cb]" name="Logininpage" duration-ms="7017" started-at="2022-07-26T16:02:43Z" finished-at="2022-07-26T16:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logininpage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ci.LoginPage.testcase.Baseclass@75c072cb]" name="teardown" is-config="true" duration-ms="767" started-at="2022-07-26T16:02:50Z" finished-at="2022-07-26T16:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ci.LoginPage.testcase.Baseclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
